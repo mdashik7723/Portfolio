@@ -42,7 +42,7 @@ function Projects() {
                         <ProjectCard
                             imgPath={webseries}
                             title="Web Series"
-                            description="The web series website is built by React.js and Bootstrap. It has been showing the best 5 web series. and it has also been linked with Netflix. You can watch the web series on the Netflix website when you click on the see button."
+                            description="The web series website is built by React.js and styled with Bootstrap. It has been showing the best Five web series. It has also been linked with Netflix. You can see the web series on the Netflix website when you click on the see button."
                             ghLink="https://github.com/mdashik7723/Best-5-Netflix-Web-Series"
                             demoLink=""
                         />

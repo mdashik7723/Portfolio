@@ -33,7 +33,7 @@ function Home2() {
                                 <b className="purple">Web Technologies and Products </b> and
                                 also in areas related to{" "}
                                 <b className="purple">
-                                    Front End Developer With React js.
+                                    Front End Development With React js.
                                 </b>
                             </i>
                             <br/>
@@ -43,12 +43,12 @@ function Home2() {
                             <i>
                                 <b className="purple">
                                     {" "}
-                                    Modern Javascript Library and Frameworks
+                                    Modern Javascript Library and Frameworks.
                                 </b>
                             </i>
-                            &nbsp; like
+                            &nbsp;
                             <i>
-                                <b className="purple"> React.js</b>
+                                <b className="purple"> </b>
                             </i>
                         </p>
                     </Col>
