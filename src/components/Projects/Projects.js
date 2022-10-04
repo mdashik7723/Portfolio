@@ -22,7 +22,7 @@ function Projects() {
                         <ProjectCard
                             imgPath={portfolio}
                             title="Portfolio"
-                            description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+                            description="The portfolio website is built with React.js. It has been shown in my personal details. It has highly featured to connect to GitHub to show my GitHub commit. and also shows my project with a GitHub link. it has shown my CV, and also downloaded my CV. It has shown also my used Tools and shown my Professional Skills."
                             ghLink="https://github.com/mdashik7723/Portfolio"
                             demoLink=""
                         />
@@ -32,7 +32,7 @@ function Projects() {
                         <ProjectCard
                             imgPath={ecom}
                             title="E-Commerce"
-                            description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+                            description="E-Commerce website to buy any kind of products and contact us via email for any kind of information. it is built on React.js, Style-Component, ContextAPI, and Formspree. Have features that allow users for buying products and also doing product filters with price and product category."
                             ghLink="https://github.com/mdashik7723/ecommerce"
                             demoLink=""
                         />
@@ -42,7 +42,7 @@ function Projects() {
                         <ProjectCard
                             imgPath={webseries}
                             title="Web Series"
-                            description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+                            description="The web series website is built by React.js and Bootstrap. It has been showing the best 5 web series. and it has also been linked with Netflix. You can watch the web series on the Netflix website when you click on the see button."
                             ghLink="https://github.com/mdashik7723/Best-5-Netflix-Web-Series"
                             demoLink=""
                         />
