@@ -51,6 +51,7 @@ function Projects() {
             </Container>
         </Container>
     );
-}
+};
+
 
 export default Projects;
