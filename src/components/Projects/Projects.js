@@ -5,6 +5,8 @@ import Particle from "../Particle";
 import portfolio from "../../Assets/Projects/portfolio.jpg"
 import ecom from "../../Assets/Projects/ecom.jpg";
 import webseries from "../../Assets/Projects/webseries.jpg"
+import toxic from "../../Assets/Projects/toxic.jpg";
+import onlineattendence from "../../Assets/Projects/online attendence.jpg";
 
 function Projects() {
     return (
@@ -47,6 +49,27 @@ function Projects() {
                             demoLink=""
                         />
                     </Col>
+
+                    <Col md={4} className="project-card">
+                        <ProjectCard
+                            imgPath={toxic}
+                            title="Bangla Toxic Comment Classification - ML-DL"
+                            description="Toxic comment classification of Bangla language under 6 label (toxic, severe_toxic, obscene, threat, insult, identity hate)."
+                            ghLink="https://github.com/mdashik7723/Bangla-Toxic-Comment-Classification-ML-DL"
+                            demoLink=""
+                        />
+                    </Col>
+
+                    <Col md={4} className="project-card">
+                        <ProjectCard
+                            imgPath={onlineattendence}
+                            title="Online Attendance System"
+                            description="Online attendance management system enables school administrators to record, manage & compile daily student attendance data. Along with student attendance, this software also allows teachers to generate 100% accurate student attendance reports."
+                            ghLink="https://github.com/mdashik7723/Attendance-System"
+                            demoLink=""
+                        />
+                    </Col>
+
                 </Row>
             </Container>
         </Container>
