@@ -49,6 +49,6 @@ function About() {
             </Container>
         </Container>
     );
-}
+};
 
 export default About;
