@@ -27,6 +27,7 @@ function Home2() {
                                 <b className="purple"> Javascript </b>
                             </i>
                             <br/>
+
                             <br/>
                             My field of Interest's are building new &nbsp;
                             <i>
