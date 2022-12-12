@@ -112,7 +112,6 @@ function Home2() {
             </Container>
         </Container>
     );
-}
-
+};
 
 export default Home2;
